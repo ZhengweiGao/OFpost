@@ -1,2 +1,2 @@
-# Ofpost
-OpenFOAM postprocess 
+# OFpost
+OpenFOAM postprocessing 
